@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "424442364112",
+    "firebase_url": "https://dermo-firebase.firebaseio.com",
+    "project_id": "dermo-firebase",
+    "storage_bucket": "dermo-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424442364112:android:5e13b5ea6fae028e",
+        "android_client_info": {
+          "package_name": "br.com.rafaelfioretti.demofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424442364112-u0gfiiljc8d5edln39nch0aiibsn2afl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvf1cCmf7--bAl4kXbl411wLBVi1RyyuU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
